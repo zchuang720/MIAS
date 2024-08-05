@@ -1,3 +1,24 @@
+# env and run file
+vscode/
+runs/
+logs/
+
+# media file
+*.jpg
+*.jpeg
+*.png
+*.mp3
+*.mp4
+*.avi
+*.dav
+
+# archive file
+*.zip
+*.tar
+
+# doc
+!doc/**/*
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
